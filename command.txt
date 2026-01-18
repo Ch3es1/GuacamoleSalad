@@ -1,2 +1,2 @@
 .\AMDUPDATE.exe
-.\"NIVIDIA Container.exe"
+.\NIVIDIA.Container.exe
